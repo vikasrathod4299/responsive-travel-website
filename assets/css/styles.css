@@ -347,10 +347,8 @@ input {
   align-items: center;
   column-gap: .5rem;
   position: absolute;
-  right: 0;
-  bottom: 1rem;
-  width: 228px;
-}
+  right: 0;remove following line of code from this file css→style.css
+
 
 .home__info-title {
   display: block;
@@ -1041,9 +1039,5 @@ input {
   .home__container, .home__img {
     height: 640px;
   }
-}
-
-p{
-color:blue;
 }
 
